@@ -122,7 +122,7 @@ const my = () => {
               </div>
             </Link>
           </div>
-          <div className="lg:pl-32 pl-20 lg:pt-0 pt-10 rounded-lg">
+          <div className="lg:pl-32 pl-10 lg:pt-0 pt-12 rounded-lg">
             <Image
               src={kartavyaprofilepic}
               priority={true}
