@@ -23,7 +23,7 @@ const my = () => {
         <div className="flex lg:flex-row flex-col-reverse pt-6 lg:pt-20">
           <div className="lg:w-[45%] p-2">
             <h1 className="pt-5 lg:pt-0 text-3xl lg:text-4xl font-bold">
-              Full-Stack Web Developer & SEO Expert
+              Full-Stack Web Developer | SEO Expert
             </h1>
             <div className="lg:pt-10 pt-5 text-gray-500 block pr-1">
               Hey there! I'm Kartavya Gupta, a tech enthusiast who builds cool
