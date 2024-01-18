@@ -116,7 +116,7 @@ const my = () => {
               )}
             </div>
 
-            <Link href="https://drive.google.com/file/d/1RErrgP-R8FZE7mtbNm0JJTX0-EO_EnWC/view?usp=drive_link">
+            <Link href="https://drive.google.com/file/d/1MFkSoNFnsDjcsROQ9p3aAS6vk7wmxWDz/view?usp=sharing">
               <div className="pt-5 font-bold  opacity-60 hover:opacity-100">
                 Download CV
               </div>
